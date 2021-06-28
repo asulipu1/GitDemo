@@ -47,6 +47,10 @@ public class ValidateTitel extends Base {
 	public void clseBrowser() {
 		driver.close();
 	}
+	@Test
+	public void gjhdg() {
+		System.out.println("sghfuyg fhnn");
+	}
 
 	
 
