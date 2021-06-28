@@ -1,0 +1,8 @@
+19:42:53.325 [main] INFO  resources.Base - Resctrive user
+19:43:40.894 [main] INFO  resources.Base - non Restrictive user
+19:43:43.197 [main] INFO  resources.Base - Driver is Initialize
+19:43:56.264 [main] INFO  resources.Base - Navigated to home page
+20:21:48.988 [TestNG-tests-3] INFO  resources.Base - Driver is Initialize
+20:22:15.022 [TestNG-tests-1] INFO  resources.Base - Navigation bar is Displayed
+20:22:20.034 [TestNG-tests-3] INFO  resources.Base - Navigated to home page
+20:22:23.920 [TestNG-tests-2] INFO  resources.Base - Resctrive user

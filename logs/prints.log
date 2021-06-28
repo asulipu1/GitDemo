@@ -1,0 +1,3 @@
+11:02:40.846 [TestNG-tests-1] INFO  resources.Base - Navigation bar is Displayed
+11:02:50.548 [TestNG-tests-2] INFO  resources.Base - Resctrive user
+11:03:55.613 [TestNG-tests-2] INFO  resources.Base - non Restrictive user
