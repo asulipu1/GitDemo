@@ -45,5 +45,9 @@ public class HomePage extends Base {
 				{ "dhalbisoiasutosh@gmail.com", "12345", "non Restrictive user" } };
 		return data;
 	}
+	@Test
+	public void sjdkh() {
+		System.out.println("jkhdfjkhjk");
+	}
 
 }
