@@ -44,6 +44,11 @@ public class BasePageNavigation extends Base {
 	public void clseBrowser() {
 		driver.close();
 	}
+	@Test 
+	public void bhjadbj() {
+		System.out.println("dchsk");
+	
+	}
 
 	
 
